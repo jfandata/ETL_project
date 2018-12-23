@@ -1,0 +1,496 @@
+game,id,category,playerno,difficulty,avgplaytime,age
+Bohnanza,11,Negotation,"2 to 7",1.5,"45 minutes",13+
+"Cosmic Encounter",15,Thematic/Strategy,"3 to 5",2.5,"60-120 minutes",12+
+"Twilight Imperium",24,Strategy,"3 to 6",5,"240 minutes",14+
+"Arkham Horror",34,Co-op,"1 to 8",3.5,"120-240 minutes",12+
+"Can't Stop",41,"Press Your Luck","2 to 4",1,"30 minutes",9+
+"Liar's Dice",45,Bluffing,"2 to 6",1.5,"15-30 minutes",8+
+"Lost Cities",50,"Set Collection","2 to 4",2,"30-60 minutes",8+
+"Apples to Apples",74,Party/Humor/Cards,"4 to 10",1,"30 minutes",12+
+"Fortress America",99,Wargames,"2 to 4",2.5,"150 minutes",13+
+"Peaceful Resistance",107,"Abstract Strategy","2 to 3",1.5,"30 minutes",7+
+Guillotine,116,Family/Card/Humor,"2 to 5",1,"30 minutes",12+
+Pit,140,Party/Cards,"3 to 8",1,"30-90 minutes",7+
+"Wildlife Adventure",156,"Route Building","2 to 6",1,"60 minutes",10+
+Balderdash,163,Classic/Party/Bluffing,"2 to 6",1.5,"60 minutes",12+
+Chess,171,Strategy,2,4,"60 minutes",6+
+"For Sale",172,Auction/Bidding,"3 to 6",1.5,"20 minutes",8+
+Risk,181,Wargame,"2 to 6",2,"120 minutes",10+
+Fluxx,258,"Hand Management","2 to 6",1.5,"5 to 30 minutes",8+
+Scrabble,320,Word,"2 to 4",2,"60 minutes",10+
+"Advance to Boardwalk",334,"Children's/Area Control","2 to 4",1.5,"60 minutes",8+
+"Bargain Hunter",338,Strategy,"3 to4",2,"60 minutes",10+
+"Wildlife Safari",398,"Hand Management","2 to 5",1.5,"20-30 minutes",7+
+"6 nimmt!",432,Cards,"2 to 10",1,"45 minutes",8+
+Citadels,478,"Strategy/City Building","2 to 8",2,"20-60 minutes",10+
+Crokinole,521,Action/Dexterity/Flicking,"2 or 4",1.5,"30 minutes",8+
+"Honor of the Samurai",607,Strategy/Cards,"3 to 6",2,"90 minutes",10+
+"Rubik's Race",614,Strategy/Abstract,2,1,"10 minutes",8+
+Quoridor,624,"Abstract Straegy","2 or 4",2,"15 minutes",8+
+Elixir,633,Auction/Bidding,"3 to 8",1.5,"60 minutes",10+
+Quarto,681,"Abstract Strategy",2,2,"20 minutes",6+
+"Oregon Trail",721,Cards,"1 to 4",1.5,"15-30 minutes",8+
+"Battle Line",760,"Deduction/Hand Management",2,2,"30 minutes",12+
+Rummikub,811,Cards/Numbers,"2 to 4",2,"60 minutes",8+
+Carcassonne,822,Strategy,"2 to 5",3,"30-90 minutes",8+
+Cartagena,826,Family/Racing,"2 to 5",1.5,"45 minutes",8+
+Cranium,891,Party/Trivia/Word,"4 to 16 (Best 8)",1.5,"60 minutes",13+
+Twixt,949,Strategy,"2 or 4",2,"30 minutes",12+
+Evolution,1080,Strategy/Animals,"2 to 6",2.5,"50-70 minutes",10+
+Nyet!,1107,"Hand Management","2 to 5",2,"30 minutes",10+
+Taboo,1111,Party/Word,"4 to 10",1,"20 minutes",12+
+"Car Wars: The Card Game",1126,Thematic/Cards,"2 to 6",1.5,"60 minutes",10+
+Perquackey,1161,Dice/Word,"2 to 6",2,"20 minutes",8+
+"Phase 10",1258,Cards,"2 to 6",1.5,"45 minutes",8+
+Medina,1261,Abstract/Strategy,"3 to 4",3,"60 minutes",10+
+Clue,1294,Bluffing/Deduction,"3 to 6",1,"45 minutes",8+
+"Cry Havoc",1323,"Strategy/War Game","2 to 4",3.5,"90-120 minutes",10+
+Monopoly,1406,Classic,"2 to 8",2,"180 minutes",8+
+Trouble,1410,Children,"2 to 4",1,"45 minutes",4+
+"Dealer's Choice",1434,Auction/Bidding,"3 to 5",1.5,"45 minutes",8+
+UpWords,1515,Word,"2 to 4",2,"90 minutes",10+
+Coup,1653,Party/Bluffing/Memory,"2 to 6",1.5,"15 minutes",9+
+Jumanji,1751,Family,"2 to 4",1.5,"45 minutes",8+
+Stratego,1917,Classic,2,2,"45 minutes",8+
+Tribond,1962,Party,"2 to 15",1.5,"60 minutes",12+
+Checkers,2083,Classic,2,2,"30 minutes",6+
+Coup,2088,Party/Bluffing/Memory,"2 to 6",1.5,"15 minutes",9+
+Mahjong,2093,Abstract,"3 to 4",2.5,"120 minutes",8+
+UNO,2223,Classic/Cards,"2 to 10",1,"30 minutes",6+
+Yahtzee,2243,Chance,"2 to 10",2,"30 minutes",6+
+Aggravation,2272,Roll/Spin/Move,"4 to 6",1,"45 minutes",6+
+Pictionary,2281,Classic/Party,"3 to 16",1.5,"90 minutes",12+
+"Scrabble Junior",2318,Word,"2 to 4",1,"30 minutes",7+
+Lotus,2348,"Cards/Area Control","2 to 4",1.5,"30 minutes",8+
+Sequence,2375,Card,"2 to 6",1,"15-120 minutes",7+
+Guesstures,2379,Party,4+,1,"10 minutes",12+
+Scattergories,2381,Trivia,"2 to 6",1.5,"30 minutes",12+
+"Chinese Checkers",2386,Classic,"2 to 6",1.5,"30 minutes",7+
+Mastermind,2392,Classic,2,1.5,"20 minutes",8+
+Dominoes,2394,Strategy,1+,1,-,-
+Backgammon,2397,Classic,2,1.5,"30 minutes",8+
+Cribbage,2398,Card,"2 to 4",2,"30 minutes",10+
+Battleship,2425,Strategy,2,1.5,"30 minutes",8+
+"Bargain Hunter",2431,Strategy,"3 to4",2,"60 minutes",10+
+Jenga,2452,Classic/Party,"1 to 8",1,"20 minutes",6+
+Blokus,2453,Abstract/Strategy,"2 to 4",1,"20 minutes",5+
+Elixir,2546,Auction/Bidding,"3 to 8",1.5,"60 minutes",10+
+"Power Grid",2651,Strategy/Auction,"2 to 6",3.5,"120 minutes",12+
+Hive,2655,Abstract,2,2.5,"20 minutes",9+
+"Battlestar Galactica",2688,Bluffing,"3 to 6",3,"120-240 minutes",10+
+"The Battle of Five Armies",2775,Thematic/Wargames,2,3.5,"90-240 minutes",13+
+"Car Wars",2795,Wargames,"2 to 8",3,"45 minutes",10+
+"Uno Stacko",2821,Social,"2 to 10",1,"20 minutes",8+
+"Loaded Questions",2838,Party,"3 to 6",1.5,"45 minutes",13+
+"The Game of Life",2921,Family/Chance,"2 to 6",1,"60 minutes",9+
+"The Simpsons Trivia Game",2980,Trivia,"2 to 5",1.5,"60 minutes",8+
+"Puerto Rico",3076,"City Building","2 to 5",3.5,"90-150 minutes",12+
+Gettysburg,3099,Strategy,2,3,"40-240 minutes",12+
+Farkle,3181,Dice,"2 to 8",1,"30 minutes",8+
+Quixo,3190,"Abstract Strategy",2,2,"20 minutes",6+
+"Jack the Ripper",3241,Deduction,2,2.5,"120 minutes",12+
+"20 Questions",3377,Party,"2 to 7",1.5,"30 minutes",8+
+Topple,3702,Dexterity,"2 to 4",1,"20 minutes",
+Slamwich,3804,Party/Dexterity,"2 to 6",1,"10 minutes",6+
+Bang!,3955,Bluffing,"4 to 7",1.5,"20-40 minutes",8+
+"Fact or Crap",3990,Trivia,"3 to 8",1,"30 minutes",12+
+"Electronic Battleship",4122,Strategy,2,1,"30 minutes",10+
+Topple,4140,Dexterity,"2 to 4",1,"20 minutes",
+Chameleon,4187,Party,"3 to 8",1,"5 minutes",14+
+"Uno Wild Tiles",4578,Strategy,"2 to 4",1,"10 minutes",8+
+Moods,4659,Party,"3 to 8",1,"20 minutes",18+
+Outburst!,4862,Classic/Party/Trivia,"4 to 20",1,"60 minutes",18+
+"1313 Dead End Drive",4953,Children/Bluffing/Deduction,"2 to 4",1.5,"45 minutes",9+
+Push,5079,"Cards/Push Your Luck","2 to 6",1,"20 minutes",8+
+"Jack Straws",5253,Children/Dexterity,"2 to 5",1,"10 minutes",6+
+Curses!,5298,Party/Acting,"3 to 6",1,"25 minutes",12+
+Hangman,5314,Deduction/Word,2,1,"15 minutes",8+
+"New England",5406,"Territory Building","3 to 4",2.5,"90 minutes",12+
+"Snakes and Ladders",5432,Children,"2 to 4",1,"15 minutes",4+
+"Dread Pirate",5457,"Roll and Spin","2 to 4",1.5,"60 minutes",8+
+"UNO Rummy-Up",5522,Abstract,"2 to 4",1.5,"60 minutes",7+
+Perfection,5588,Children/Memory,"No limit",1,"6 minutes",5+
+Domaine,5737,"Area Control","2 to 4",2.5,"60 minutes",12+
+Coloretto,5782,"Card Drafting","2 to 5",1.5,"30 minutes",8+
+"Punch Line",5852,Word,"2 to 4",2,"30 minutes",10+
+Alhambra,6249,"City Building","2 to 6",2,"45-60 minutes",8+
+"Cranium Cadoo",6420,Children/Creative,"2 to 16",1,"45 minutes",7+
+"Pretty Pretty Princess",6549,Classic,"2 to 4",1,"20 minutes",5+
+"Battlestar Galactica",6768,Bluffing,"3 to 6",3,"120-240 minutes",10+
+Push,7046,"Cards/Push Your Luck","2 to 6",1,"20 minutes",8+
+"Rush n' Crush",7482,Thematic/Family,"3 to 6",2,"60 minutes",12+
+"Jungle Speed",8098,Dexterity/Party,"2 to 10",1,"15 minutes",8+
+Konane,8122,Strategy/Checkers,2,2,"20 minutes",6+
+"San Juan",8217,"City Building","2 to 4",2.5,"45-60 minutes",10+
+"Triple Yahtzee",8944,Dice,"2 to 4",1,"30 minutes",6+
+"Pass the Buck",9006,Bluffing,"3 to 5",1,"30 - 45 minutes",14+
+"Ticket to Ride",9209,Family,"2 to 5",2,"30-60 minutes",8+
+Saboteur,9220,Party/Bluffing,"3 to 10",1.5,"30 minutes",8+
+Ingenious,9674,Abstract,"1 to 4",2,"45 minutes",10+
+"Beer Money",9787,Cards/Fighting,"2 to 4",2,"10 minutes",12+
+"Shut the Box",9851,Children/Dice,"2 to 4",1,"30 minutes",8+
+Santorini,9963,"Abstract Strategy","2 to 4",2,"20 minutes",8+
+"King Kong",10306,"Roll, Spin, Move","2 to 4",1,"30 minutes",5+
+"Risk: Godstorm",10383,Wargame,"2 to 5",2.5,"120 minutes",10+
+Ascension,10403,Deckbuilding,"1 to 4",2,"30 minutes",13+
+"Betrayal at House on the Hill",10547,Co-op/Horror,"3 to 6",2.5,"60 minutes",12+
+"Memoir '44",10630,Wargames,2,2.5,"30-60 minutes",8+
+Guillotine,11629,Family/Card/Humor,"2 to 5",1,"30 minutes",12+
+"Candamir: The First Settlers",12004,"Set Collection","2 to 4",2.5,"60 minutes",12+
+"Twilight Struggle",12333,Wargames/Strategy,2,3.5,"180 minutes",13+
+Gloom,12692,Storytelling/Party,"2 to 4",1.5,"60 minutes",13+
+"Six Degrees of Kevin Bacon",12741,Trivia/Party,"2 to 4",1,"30 minutes",12+
+Ys,12761,Strategy/Bluffing,"3 to 4",3,"60-90 minutes",12+
+"The Downfall of Pompeii",13004,"Tile Placement","2 to 4",2,"45 minutes",10+
+"Oltre Mare",13551,Strategy,"2 to 5",2.5,"60 minutes",12+
+Mascarade,13592,Party,"2 to 13",1.5,"30 minutes",10+
+Chameleon,13711,Party,"3 to 8",1,"5 minutes",14+
+"Fairy Tale",13823,"Card Drafting","2 to 6",2,"30 minutes",10+
+"Blood Feud in New York",14258,"Miniatures/Territory Building","2 to 6",2.5,"180 minutes",12+
+"Sword & Skull",14992,Adventure,"2 to 5",1.5,"60 minutes",10+
+"Ticket to Ride: Europe",14996,Family,"2 to 5",2,"30-60 minutes",8+
+"Shadows Over Camelot",15062,Thematic,"3 to 7",2.5,"60 to 80",10+
+Coloretto,15159,"Card Drafting","2 to 5",1.5,"30 minutes",8+
+Manila,15817,Chance/Strategy,"3 to 5",3,"60 minutes",10+
+"Arkham Horror",15987,Co-op,"1 to 8",3.5,"120-240 minutes",12+
+"Carcassonne: The Discovery",16216,"Tile Placement","2 to 5",2,"30 minutes",8+
+"The Battle of Five Armies",16538,Thematic/Wargames,2,3.5,"90-240 minutes",13+
+Evolution,16746,Strategy/Animals,"2 to 6",2.5,"50-70 minutes",10+
+"Angelina Ballerina's Dancing Game",16959,Children's,"2 to 4",1,"15 minutes",3+
+Tsuro,16992,Family/Abstract,"2 to 8",1.5,"15 minutes",8+
+Crosstalk,17528,Party/Deduction,"4 to 8",1.5,"30 minutes",10+`
+Chameleon,17576,Party,"3 to 8",1,"5 minutes",14+
+Firefly,18155,"Thematic Fantasy","1 to 4",3,"120-240 minutes",13+
+"Elasund: The First City",19526,Strategy,"2 to 4",2.5,"60-90 minutes",10+
+Pentago,19841,"Abstract Strategy",2,2,"3 to 30 minutes",6+
+"Wits & Wagers",20100,Trivia,"3 to 7",1,"25 minutes",10+
+Prosperity,20166,"Card Drafting/Tile Placement","2 to 4",2.5,"60 minutes",13+
+"Lords of Vegas",20437,"City Building","2 to 4",2.5,"60 minutes",12+
+"Rory's Story Cubes",20545,Dice/Co-op/Storytelling,"1 to 12",1,"20 minutes",8+
+"The Simpsons: Homer's Trivia Game",21356,Trivia,"2 to 5",1.5,"60 minutes",8+
+"Mr. Jack",21763,Deduction,2,2,"30 minutes",9+
+"Leonardo da Vinci",21920,"Area Control","2 to 5",3,"90 minutes",12+
+Parade,22239,"Cards/Set Collection","2 to 6",1.5,"20-30 minutes",12+
+"Tide of Iron",22825,Wargames,"2 to 4",3.5,"120 minutes",12+
+Push,23033,"Cards/Push Your Luck","2 to 6",1,"20 minutes",8+
+Evolution,24104,Strategy/Animals,"2 to 6",2.5,"50-70 minutes",10+
+"Through the Ages: A Story of Civilization",25613,"City Building/Card Drafting","2 to 4",4,"240 minutes",12+
+Qwirkle,25669,Abstract,"2 to 4",1.5,"45 minutes",6+
+"Cry Havoc",27092,"Strategy/War Game","2 to 4",3.5,"90-120 minutes",10+
+"Battle Line",27135,"Deduction/Hand Management",2,2,"30 minutes",12+
+Kingsburg,27162,"City Building","2 to 5",2.5,"90 minutes",13+
+"Portobello Market",27356,"Strategy/Area Control","2 to 4",2,"35 minutes",8+
+Guillotine,27373,Family/Card/Humor,"2 to 5",1,"30 minutes",12+
+Chameleon,27482,Party,"3 to 8",1,"5 minutes",14+
+"Island Fortress",27574,Auction/Bidding,"2 to 4",3,"90 minutes",13+
+Zooloretto,27588,"Tile Placement","2 to 5",2,"45 minutes",8+
+"Race for the Galaxy",28143,Strategy,"2 to 4",3,"30-60 minutes",12+
+"Cutthroat Caverns",28259,"Hand Management","3 to 6",2,"90 minutes",12+
+Marrakech,29223,"Tile Placement/Area Control","2 to 4",1.5,"30 minutes",6+
+"World of Warcraft: The Adventure Game",29294,Thematic,"2 to 4",2.5,"90 minutes",12+
+Pandemic,30549,Co-Op/Strategy,"2 to 4",3,"60 minutes",13+
+Agricola,31260,"Card Drafting","1 to 5",3.5,"30-150 minutes",12+
+"Galaxy Trucker",31481,"Tile Placement/Humor","2 to 4",2.5,"60 minutes",10+
+"Ticket to Ride: Nordic Countries",31627,"Card Drafting","2 to 3",2,"30-60 minutes",8+
+Bang!,32806,Bluffing,"4 to 7",1.5,"20-40 minutes",8+
+"Say Anything",33604,Party,"3 to 8",1,"30 minutes",13+
+Prosperity,33610,"Card Drafting/Tile Placement","2 to 4",2.5,"60 minutes",13+
+Biblios,34219,"Card Drafting","2 to 4",1.5,"30 minutes",10+
+"Battlestar Galactica",36006,Bluffing,"3 to 6",3,"120-240 minutes",10+
+Gettysburg,36053,Strategy,2,3,"40-240 minutes",12+
+Dominion,36218,Card/Strategy,"2 to 4",2.5,"30 minutes",13+
+"Bump in the Night",36690,Miniatures/Horror,"2 to 6",2.5,"60 minutes",12+
+Imhotep,36919,"Area Control","2 to 4",2,"40 minutes",10+
+Chameleon,36945,Party,"3 to 8",1,"5 minutes",14+
+"Battlestar Galactica",37111,Bluffing,"3 to 6",3,"120-240 minutes",10+
+"Incan Gold",37759,Bluffing,"3 to 8",1,"20 minutes",8+
+"Formula D",37904,"Dice Rolling","2 to 10",2,"60 minutes",8+
+"Pass the Buck",38152,Bluffing,"3 to 5",1,"30 - 45 minutes",14+
+Sidibaba,38402,Partnerships/Voting,"3 to 7",2,"45 minutes",14+
+Giants,38862,"Strategy/Bidding/Worker Placement","3 to 5",3,"90 minutes",10+
+"Click Clack Lumberjack",39206,Abstract/Party,"2 to 7",1.5,"10 minutes",5+
+"Cosmic Encounter",39463,Thematic/Strategy,"3 to 5",2.5,"60-120 minutes",12+
+Dixit,39856,Party/Cards/Humor,"3 to 6",1.5,"30 minutes",6+
+"Flapjacks and Sasquatches",39862,Cards,"2 to 8",1.5,"20 minutes",8+
+"Cosmic Encounter",40529,Thematic/Strategy,"3 to 5",2.5,"60-120 minutes",12+
+"Cosmic Encounter",40531,Thematic/Strategy,"3 to 5",2.5,"60-120 minutes",12+
+"The Resistance",41114,Bluffing/Party,"5 to 10",2,"30 minutes",13+
+Martinique,42244,Bluffing/Deduction,2,2,"30 minutes",10+
+"Castle Panic",43443,"Co-Op/Tower Defense","1 to 6",2,"30 minutes",10+
+Friday,43570,Cards/Solo,1,2,"25 minutes",10+
+Telestrations,46213,Party/Humor,"4 to 6",1,"30 minutes",12+
+"High Noon Saloon",46362,"Area Movement","2 to 6",1.5,"45 minutes",10+
+"Rush n' Crush",46782,Thematic/Family,"3 to 6",2,"60 minutes",12+
+"Stop Thief!",49301,Cooperative,"2 to 4",1.5,"30-60 minutes",10+
+"Cards Against Humanity",50381,Party/Adult,"4 to 30",1,"30 minutes",18+
+Thunderstone,53953,"Card Drafting","1 to 5",2.5,"60 minutes",12+
+Jaipur,54043,"Card Drafting",2,1.5,"30 minutes",12+
+"Battle Sheep",54137,Abstract,"2 to 4",1.5,"15 minutes",7+
+Parade,56692,"Cards/Set Collection","2 to 6",1.5,"20-30 minutes",12+
+Evolution,57977,Strategy/Animals,"2 to 6",2.5,"50-70 minutes",10+
+"Bunny Bunny Moose Moose",59149,Party/Dexterity,"3 to 6",1.5,"20 minutes",9+
+Runewars,59294,Thematic/Strategy,"2 to 4",3.5,"180 minutes",14+
+"Letters from Whitechapel",59959,Thematic/Strategy,"2 to 6",2.5,"120 minutes",13+
+"Passing the Bar",61811,Lawyers,"2 to 4",5,"60 minutes",21+
+Funglish,62709,Party,"3 to 12",1,"25 minutes",12+
+Dominion,64777,Card/Strategy,"2 to 4",2.5,"30 minutes",13+
+"Formula D",64896,"Dice Rolling","2 to 10",2,"60 minutes",8+
+"Road Kill Rally",65225,"Dice Rolling","3 to 6",2,"60-120 minutes",13+
+"Forbidden Island",65244,Co-op/Strategy,"2 to 4",1.5,"30 minutes",10+
+Gettysburg,65825,Strategy,2,3,"40-240 minutes",12+
+"The Rivals for Catan",66056,Card/Strategy,2,2.5,"45 minutes",10+
+Push,66511,"Cards/Push Your Luck","2 to 6",1,"20 minutes",8+
+"Battles of Westeros",67492,Wargame,2,3,"60-120 minutes",12+
+"7 Wonders",68448,"Strategy/City Building","2 to 7",2.5,"30 minutes",10+
+Push,68787,"Cards/Push Your Luck","2 to 6",1,"20 minutes",8+
+"King of Tokyo",70323,Dice/Family,"2 to 6",1.5,"30 minutes",8+
+Takenoko,70919,"Territory Building/Tile Placement","2 to 4",2,"45 minutes",8+
+Onirim,71836,"Set Collection","1 to 2",1.5,"15 minutes",8+
+"Mr. Jack Pocket",72287,Strategy,2,2,"15 minutes",14+
+"Those Pesky Humans!",76442,"Tile Placement","2 to 4",2,"90 minutes",13+
+"Sid Meier's Civilization: The Board Game",77130,Strategy,"2 to 4",4,"120-240 minutes",13+
+"Hex Hex XL",79067,Cards,"3 to 6",2,"20 minutes",14+
+Suburbia,81185,"City Building/Card Drafting","1 to 4",3,"90 minutes",8+
+Konexi,82948,Action,"2 to 4",1.5,"20 minutes",10+
+Felinia,84869,"Territory Building","2 to 4",2.5,"60 minutes",10+
+Nightfall,88408,"Card Drafting","2 to 5",2.5,"45 minutes",12+
+"Saturday Night Live: The Game",89071,Party,"2 to 8",1,"20-30 minutes",12+
+"ImagiNiff: 10th Anniversary Edition",89478,Party/Bluffing,"3 to 8",1,"35 minutes",12+
+Push,89578,"Cards/Push Your Luck","2 to 6",1,"20 minutes",8+
+"Rhino Hero",91514,Dexterity,"2 to 5",1,"5-15 minutes",5+
+Spontuneous,94684,Party,"4 to 10",1,"30 minutes",8+
+Tem-Purr-A,95386,Social,"3 to 7",1,"30 minutes",8+
+"Dealer's Choice",97080,Auction/Bidding,"3 to 5",1.5,"45 minutes",8+
+Coconuts,98386,Action/Dexterity,"2 to 4",1,"20 minutes",6+
+Hanabi,98778,Family/Cards,"2 to 5",1.5,"25 minutes",8+
+Bears!,99081,"Party/Dice Rolling","2 to 4",1,"20 minutes",7+
+"Colonial: Europe's Empires Overseas",99392,"Area Control","2 to 6",3.5,"120 minutes",14+
+"Elder Sign",100423,Thematic,"1 to 8",2.5,"90 minutes",13+
+"Flash Point: Fire Rescue",100901,Thematic/Family,"1 to 6",2,"45 minutes",10+
+Quarto,101859,"Abstract Strategy",2,2,"20 minutes",6+
+"Sentinels of the Multiverse",102652,Co-op/Cards,"1 to 5",2.5,"30-60 minuts",8+
+"Lost Temple",102835,Adventure,"2 to 8",1.5,"40 minutes",10+
+"A Game of Thrones: The Board Game (Second Edition)",103343,"Bluffing/Area Control","3 to 6",3.5,"120-240 minutes",14+
+"VivaJava: The Coffee Game",103660,"Bluffing Negotiation","3 to 8",2.5,"90 minutes",13+
+"Star Wars: X-Wing Miniatures Game",103885,Bluffing,"2 to 4",2.5,"30-45 minutes",14+
+"Star Wars: The Card Game",103886,"Hand Management",2,3,"60 minutes",10+
+Bonbons,104376,Children's/Memory,"2 to 6",1,"10-20 minutes",7+
+Sagrada,107448,"Card Drafting","1 to 4",2,"30-45 minutes",14+
+Seasons,108745,"Card Drafting","2 to 4",3,"60 minutes",14+
+"Among the Stars",110277,"Strategy/City Building","2 to 4",2,"30 minutes",12+
+"Lords of Waterdeep",110327,"Strategy/City Building","2 to 5",2.5,"60-120 minutes",12+
+Zombicide,113924,Thematic/Horror,"1 to 6",2.5,"45-180 minutes",13+
+"Kittens in a Blender",115105,Party,"2 to 4",1,"30 minutes",8+
+"Fortress America",115293,Wargames,"2 to 4",2.5,"150 minutes",13+
+Spinout,116768,Puzzle,1,2,-,8+
+Indigo,116954,"Abstract / Family","2 to 4",1.5,"30 minutes",8+
+"Star Trek: Catan",117985,Thematic/Strategy,"3 to 4",2.5,"75 minutes",10+
+Sequence,118561,Card,"2 to 6",1,"15-120 minutes",7+
+Chameleon,119431,Party,"3 to 8",1,"5 minutes",14+
+Redshirts,120426,Humor,"2 to 7",1.5,"30 minutes",12+
+"Terra Mystica",120677,Strategy,"2 to 5",4,"60-150 minutes",12+
+Push,120946,"Cards/Push Your Luck","2 to 6",1,"20 minutes",8+
+"Steam Park",121410,"Family/City Building","2 to 4",2,"90 minutes",8+
+"Smash Up",122522,Strategy/Card/Family,"2 to 4",2,"45 minutes",12+
+Suburbia,123260,"City Building/Card Drafting","1 to 4",3,"90 minutes",8+
+Tokaido,123540,"Set Collection","2 to 5",2,"45 minutes",8+
+Concordia,124361,"Strategy/Card Drafting","2 to 5",3,"100 minutes",13+
+"Android: Netrunner",124742,Bluffing,2,3.5,"45 minutes",14+
+"Pixel Tactics",125548,"Hand Management",2,2.5,"45 minutes",12+
+Libertalia,125618,"Hand Management","2 to 6",2,"45 minutes",14+
+Kemet,127023,"Area Control","2 to 5",3,"90-120 minutes",13+
+"Ars Victor",128204,Wargame,2,2.5,"60 minutes",13+
+Viticulture,128621,Strategy,"2 to 6",3,"90 minutes",13+
+"The Resistance: Avalon",128882,Card,2,2,"45 minutes",12+
+"Love Letter",129622,Family/Bluffing,"2 to 4",1,"20 minutes",10+
+"Shadows Over Camelot: The Card Game",129904,Family,"1 to 7",2,"20 minutes",8+
+Celestia,130853,"Press Your Luck","2 to 6",1.5,"30 minutes",8+
+Coup,131357,Party/Bluffing/Memory,"2 to 6",1.5,"15 minutes",9+
+"Castle: The Detective Card Game",131389,Murder/Mystery,"2 to 5",1,"25 minutes",15+
+"BioShock Infinite: The Siege of Columbia",132428,Strategy,"2 to 4",3,"60 minutes",13+
+"Roll for the Galaxy",132531,"Strategy/Pool Building","2 to 5",3,"45 minutes",13+
+"Dead Panic",133437,Co-op,"2 to 6",2,"90 minutes",13+
+"Euphoria: Build a Better Dystopia",133848,"Dice Rolling/Set Collection","2 to 6",3,"60 minutes",13+
+"Smash Up: Awesome Level 9000",134726,Strategy/Card/Family,"2 to 4",2,"45 minutes",12+
+"The Battle of Five Armies",135219,Thematic/Wargames,2,3.5,"90-240 minutes",13+
+"Forbidden Desert",136063,"Co-op Grid Movement","2 to 5",2,"45 minutes",10+
+"Expedition: Famous Explorers",136558,Strategy,"2 to 6",2,"60-90 minutes",13+
+Schmovie,137968,Party,15-Mar,1,"35 minutes",17+
+"Zombicide Season 2: Prison Outbreak",137988,Thematic/Horror,"1 to 6",2.5,"90-180 minutes",13+
+Mascarade,139030,Party,"2 to 13",1.5,"30 minutes",10+
+"Terrene Odyssey",139177,Deduction,"2 to 4",2.5,"20 minutes",12+
+Superfight,139443,Party,"3 to 10",1.5,"30 minutes",5+
+"Brew Crafters",139898,"Worker Placement","2 to 5",3.5,"90 minutes",12+
+"A Study in Emerald",141517,Deckbuilding/Horror,"2 to 5",3,"60 minutes",13+
+"The Three Little Pigs",141554,Childrens,"2 to 5",1,"20 minutes",7+
+"Gravwell: Escape from the 9th Dimension",142992,"Card Drafting","1 to 4",2,"20-35 minutes",12+
+"Florenza: The Card Game",143484,"Strategy/City Building","2 to 4",2.5,"60 Minutes",14+
+"Something Different",143869,Party,"3 to 6",1,"30 minutes",13+
+"Arcane Academy",144734,"Card Drafting/Tile Placement","2 to 4",2.5,"30-45 minutes",12+
+Prosperity,145203,"Card Drafting/Tile Placement","2 to 4",2.5,"60 minutes",13+
+Coconuts,145639,Action/Dexterity,"2 to 4",1,"20 minutes",6+
+"Eldritch Horror",146021,Fantasy/Adventure,"1 to 8",3.5,"120-240 minutes",14+
+"Tash-Kalar: Arena of Legends",146278,Abstract,"2 to 4",3,"30-60 minutes",13+
+"Ender's Game: Battle School",146388,"Dice Rolling",2,2.5,"30-45 minues",15+
+"Star Realms",147020,"Card Drafting",2,2,"20 minutes",12+
+Concept,147151,Party,"4 to 12",1.5,"40 minutes",10+
+"One Night Ultimate Werewolf",147949,Party/Bluffing,"3 to 10",1.5,"10 minutes",8+
+Splendor,148228,"Card Drafting","2 to 4",2,"30 minutes",10+
+"Cat Tower",150485,Stacking,"2 to 6",1,"15 minutes",4+
+"Shadows of Brimstone: Swamps of Death",150997,Thematic,"1 to 4",3.5,"60 minutes",12+
+"Smash Up: Science Fiction Double Feature",151004,Strategy/Card/Family,"2 to 4",2,"45 minutes",12+
+"Heroes Wanted",153097,"Grid Movement/Humor","1 to 5",2.5,"45 minutes",13+
+"Livestock Uprising",153213,"Territory Building","2 to 4",2.5,"90 minutes",14+
+Pyramix,153709,Abstract,"2 to 4",1.5,"15 minutes",8+
+"Camel Up",153938,Family/Wagering,"2 to 8",1.5,"20-30 minutes",8+
+"Medieval Academy",154386,"Card Drafting","2 to 5",2,"30 minutes",8+
+"Till Dawn",154498,"Press Your Luck","4 to 8",1.5,"30 minutes",8+
+"Hive Pocket",154597,Abstract,2,2.5,"20 minutes",9+
+"Castles of Mad King Ludwig",155426,"Card Drafting","1 to 4",2.5,"90 minutes",13+
+Evolution,155703,Strategy/Animals,"2 to 6",2.5,"50-70 minutes",10+
+Inis,155821,"Card Drafting","2 to 4",3,"60-90 minutes",14+
+"Sons of Anarchy: Men of Mayhem",156091,Thematic/Negotiation,"3 to 4",2.5,"60 minutes",13+
+"Deception: Murder in Hong Kong",156129,Bluffing/Party,"4 to 12",1.5,"20 minutes",14+
+"The Black Rose",156358,Bluffing/Card,"3 to 5",2,"20 minutes",15+
+Monikers,156546,Party/Trivia/Acting,"4 to 20",1,"60 minutes",18+
+"Trains: Rising Sun",157001,Strategy,"2 to 4",2.5,"45 minutes",12+
+Madness,157086,Cards,"2 or 4",1,"35 minutes",8+
+"Five Tribes",157354,Strategy,"2 to 4",3,"40-80 minutes",13+
+Viceroy,157526,"Card Drafting","1 to 4",2.5,"45-60 minutes",12+
+"Stay Away!",158392,Bluffing/Deduction,"4 to 12",1,"15-60 minutes",12+
+"Billionaire Banshee",158564,Party/Adult,15-Jan,1,"60 minutes",17+
+"Backyard Builders Treehouse",158742,"Card Drafting","2 to 5",1,"5-10 minutes",6+
+"Colt Express",158899,"Hand Management","2 to 6",2,"30-40 minutes",10+
+"Samurai Spirit",158900,Co-Op/Strategy,"1 to 7",2,"30 minutes",9+
+"XenoShyft: Onslaught",159109,Thematic/Strategy,"1 to 4",2.5,"30-60 minutes",13+
+"Operation F.A.U.S.T.",159515,Bluffing/Cards,"3 to 8",2,"30 minutes",13+
+"Smash Up: Monster Smash",160018,Strategy/Card/Family,"2 to 4",2,"45 minutes",12+
+Onitama,160477,Stategy,2,1,"20-30 minutes",10+
+"The Builders: Antiquity",161226,"Family/City Building","2 to 4",2,"30 minutes",10+
+Red7,161417,"Cards/Set Collection","2 to 4",1.5,"5-30 minutes",9+
+"Private Die",162038,"Dice Rolling","2 to 6",1.5,"15 minutes",10+
+"Smash Up: Munchkin",162559,Strategy/Card/Family,"2 to 4",2,"45 minutes",12+
+"Spirit Island",162886,Cooperative,"1 to 4",4,"90-120 minutes",13+
+Patchwork,163412,Strategy,2,2,"15-30 minutes",8+
+"Star Wars: Imperial Assault",164153,"Miniatures/War Game","2 to 5",3.5,"60-120 minutes",14+
+"Flip Hue",164838,Cards,"3 to 6",1.5,"30 minutes",8+
+"Monopoly Deal",164840,Cards,"2 to 5",1,"15 minutes",8+
+"The Three Little Pigs",164911,Childrens,"2 to 5",1,"20 minutes",7+
+Orleans,164928,"Pool Building","2 to 4",3,"90 minutes",12+
+Battleship,165283,Strategy,2,1.5,"30 minutes",8+
+"Bottom of the 9th",166286,Bluffing/Deduction,"1 to 2",1.5,"5-20 minutes",13+
+Spyfall,166384,Party/Bluffing,"3 to 8",1.5,"15 minutes",12+
+"Terraforming Mars",167791,"Card Drafting","1 to 5",3.5,"90-120 minutes",12+
+"Between two Cities",168435,"City Building","3 to 7",2,"20 minutes",8+
+"Smash Up: Pretty Pretty Smash Up",168917,Strategy/Card/Family,"2 to 4",2,"45 minutes",12+
+"How to Serve Man",169375,"Humor/Worker Placement",6-Feb,2,"60 minutes",10+
+Scythe,169786,"Territory Building","1 to 5",3.5,"90-115 minutes",14+
+Accentuate,170054,Party,"4 to 12",1,"30 minutes",12+
+"Blood Rage",170216,"Miniatures/Card Drafting","2 to 4",3,"60-90 minutes",13+
+"Wombat Rescue",170300,"Grid Movement/Humor","1 to 4",2,"60 minutes",10+
+"Captain Sonar",171131,Party/Deduction,"2 to 8",2,"45-60 minutes",14+
+Skulldug!,171234,"Tile Placement","1 to 6",2,"45-90 minutes",13+
+Skulldug!,171234,"Tile Placement","1 to 6",2,"45-90 minutes",13+
+Hocus,171261,Cards,"2 to 5",2.5,"30 minutes",10+
+FUSE,171273,Dexterity/Dice,"1 to 5",2,"10 minutes",10+
+Cacao,171499,"Territory Building/Tile Placement","2 to 4",2,"45 minutes",8+
+"The Grizzled",171668,Co-op/Cards,"2 to 5",2,"30 minutes",10+
+"Crab Stack",172033,Strategy,"2 to 4",1.5,"20 minutes",8+
+"Exploding Kittens",172225,Party/Cards,"2 to 5",1,"15 minutes",7+
+"Exploding Kittens: NSFW Deck",172242,Party/Cards,"2 to 5",1,"15 minutes",18+
+"Champions of Midgard",172287,Strategy,"2 to 4",2.5,"60-90 minutes",10+
+"Broom Service",172308,Strategy,"2 to 5",2.5,"30-75 minutes",10+
+"Above and Below",172818,"Card Drafting","2 to 4",2.5,"90 minutes",13+
+Nevermore,173047,"Card Drafting","3 to 6",2,"45-60 minutes",14+
+"Go Fish Yourself",173057,Party/Adult,"4 to 6",1,"15-45 min",18+
+"7 Wonders Duel",173346,"Strategy/City Building",2,2,"30 minutes",10+
+Gruff,173804,Fantasy,"2 to 4",3,"20-45 minutes",11+
+"Ion: A Compound Building Game",174611,Deduction,"2 to 7",1.5,"20-40 minutes",8+
+"Boss Monster 2: The Next Level",174973,"Card Strategy","2 to 4",2,"20-30 minutes",13+
+Celestia,175117,"Press Your Luck","2 to 6",1.5,"30 minutes",8+
+"Bad Beets",175458,Bluffing,"2 to 5",1.5,"15 minutes",8+
+"Deck Building: The Deck Building Game",175846,Cards,2,1.5,"10-20 minutes",13+
+"Three Cheers for Master",175961,Card/Humor,"2 to 6",1.5,"20-40 minutes",13+
+"Tides of Time",176229,"Card Drafting",2,1,"10-15 minutes",10+
+"One Night Revolution",176361,Bluffing/Cards/Party,"3 to 10",2,"15 minutes",14+
+"Isle of Skye: From Chieftain to King",176494,"Territory Building/Tile Placement","2 to 5",2.5,"30-50 minutes",8+
+"Ice Cool",177524,Children,"2 to 4",1,"20 minutes",6+
+"Smash Up: It's Your Fault!",177802,Strategy/Card/Family,"2 to 4",2,"45 minutes",12+
+"World's Fair 1893",178336,"Area Control/Set Collection","2 to 4",2,"35-45 minutes",10+
+Codenames,178900,Party/Deduction,"2 to 8",1.5,"15 minutes",14+
+"The Great Dinosaur Rush",179071,"Set Collection","2 to 5",2,"60 minutes",10+
+"One Deck Dungeon",179275,Co-Op,"1 to 2",2,"30 minutes",14+
+Shakespeare,180511,"Card Drafting","1 to 4",3,"20-90 minutes",13+
+"Steam Time",180592,Strategy,"2 to 4",3,"90 minutes",12+
+"Tiny Epic Western",180852,"Bluffing/Worker Placement","1 to 4",3,"30-45 minutes",14+
+"Kitty Paw",180867,Dexterity/Abstract,"1 to 4",1,"15 minutes",6+
+Flock,180920,"Abstract Stategy","2 to 5",2.5,"30 minutes",14+
+"Potion Explosion",180974,"Pattern Regonition","2 to 4",1.5,"30-60 minutes",8+
+"Brick Party",181161,Party,"4 to 9",1.5,"30 minutes",5+
+Mysterium,181304,"Deduction/Murder Mystery","2 to 7",2,"42 minutes",10+
+"Warhammer Quest: The Adventure Card Game",181521,"Co-op / Role Playing","1 to 4",2.5,"30-60 minutes",14+
+"Kodama: The Tree Spirits",181810,"Abstract Strategy","2 to 5",1.5,"40 minutes",14+
+"Adventure Land",183231,"Area Control","2 to 4",2,"45 minutes",10+
+Karuba,183251,"Tile Placement","2 to 4",1.5,"40 minutes",8+
+"Obama Llama",184525,Party/Trivia/Acting,"4 to 99",1,"30 minutes",18+
+"Greedy Greedy Goblins",184919,"Tile Placement/Bluffing","2 to 4",2,"25-35 minutes",14+
+Islebound,185589,"Area Control","2 to 4",3,"60-120 minutes",13+
+"Quests of Valeria",187680,"Card Drafting","1 to 5",2,"20-45 minutes",14+
+"Sequence Cats",188493,Card,"2 to 6",1,"15-120 minutes",7+
+"Secret Hitler",188834,"Social Deduction","5 to 10",1.5,"45 minutes",
+"Sea of Clouds",189052,"Card Drafting","2 to 4",1.5,"45 minutes",10+
+"Zany Penguins",190639,"Hand Management","2 to 5",1.5,"20 minutes",7+
+Imhotep,191862,"Area Control","2 to 4",2,"40 minutes",10+
+"Catch Phrase",192092,Party,"4 to 16",1,"30 minutes",12+
+"Pandemic: Reign of Cthulhu",192153,Cooperative,"2 to 4",2,"40 minutes",14+
+"Cry Havoc",192457,"Strategy/War Game","2 to 4",3.5,"90-120 minutes",10+
+"Go Cuckoo!",192547,Party,"2 to 6",1,"10-15 minutes",4+
+"Junk Art",193042,"Hand Management","2 to 6",1.5,"30 minutes",8+
+"Joking Hazard",193621,"Party Adult","3 to 10",1,"30-90 minutes",18+
+"Star Trek Panic",193737,Co-op,"1 to 6",2,"90-120 minutes",13+
+"Great Western Trail",193738,"Pool Building","2 to 4",3.5,"75-150 minutes",12+
+"Costa Rica",194100,"Press Your Luck","2 to 5",1.5,"30-45 minutes",8+
+"Happy Salmon",194626,Party,"3 to 6",1,"2 minutes",6+
+Santorini,194655,"Abstract Strategy","2 to 4",2,"20 minutes",8+
+"Leaders of Euphoria: Choose a Better Oppressor",195237,"Bluffing/Card Game","4 to 8",2,"15-30 minutes",13+
+"Tides of Madness",195544,"Card Drafting",2,1.5,"20 minutes",10+
+"Fish Frenzy",196122,Bidding,"3 to 5",1,"2--30 minutes",10+
+"Time Management: The Time Management Game",197066,"Tile Placement","1 to 4",1.5,"30 minutes",13+
+"Trick-Taking: The Trick-Taking Game",197068,Cards,"2 to 4",1.5,"15-30 minutes",8+
+"Traitor Mechanic: The Traitor Mechanic Game",197069,Cards/Bluffing,"4 to 10",12,"30 minutes",13+
+Tak,197405,Abstract,2,2.5,"20-60 minutes",12+
+Agricola,197633,"Card Drafting","1 to 5",3.5,"30-150 minutes",12+
+"Jim Henson's Labyrinth: The Board Game",198447,"Area Movement//Co-op","1 to 5",1.5,"60-120 minutes",6+
+Lotus,198525,"Cards/Area Control","2 to 4",1.5,"30 minutes",8+
+Sagrada,199561,"Card Drafting","1 to 4",2,"30-45 minutes",14+
+Kanagawa,200147,"Card Drafting","2 to 4",2,"45 minutes",10+
+"Jack the Ripper",200314,Deduction,2,2.5,"120 minutes",12+
+"Bananagrams Party",202477,Words,"2 to 8",1,"25 minutes",10+
+"Encounters: Shadowrun",202494,"Dice/Science Fiction","1 to 8",2,"15-30 minutes",13+
+"Ticket to Ride: Rails & Sails",202670,"Route Building/Set collection","2 to 5",3,"60-120 minutes",10+
+Scrawl,202982,Party,"4 to 8",1.5,"20-30 minutes",18+
+"Cottage Garden",204027,"Tile Placement","1 to 4",2,"45-60 minutes",8+
+Skyjo,204135,Cards,"2 to 8",1,"15-45 minutes",8+
+Kingdomino,204583,"City Building","2 to 4",1.5,"15-20 minutes",8+
+"You Gotta Be Kitten Me!",204892,Bluffing,"2 to 10",1.5,"30 minutes",10+
+"Jump Drive",205597,"Hand Management","2 to 4",2,"20 minutes",13+
+"The Blood of an Englishman",206504,Abstract/Strategy,2,2,"20-30 minutes",10+
+"Banana Bandits",206540,"Dice Rolling","2 to 4",2,"25-40 minutes",8+
+Ethnos,206718,Strategy,"2 to 6",2,"30-45 minutes",14+
+"Target Ball",206911,Action/Dexterity,"1 to 4",1,"10 minutes",5+
+Wordsy,208480,"Word Game","1 to 6",1,"20 minutes",8+
+"Qwixx Deluxe",208775,Dice,"2 to 5",1,"15 minutes",8+
+"Century: Spice Road",209685,"Card Drafting","2 to 5",2,"30-45 minutes",8+
+"Magic Maze",209778,Cooperative,"1 to 8",1.5,"15 minutes",8+
+"Lazer Ryderz",210052,Maze/Racing,"2 to 4",1.5,"30-60 minutes",12+
+"Legendary: Buffy The Vampire Slayer",210290,"Card Drafting","1 to 5",3,"30-60 minutes",14+
+"Mountains of Madness",214293,"Dice Rolling/Co-operative","3 to 5",2,"60-90 minutes",12+
+Indulgence,215308,"Card Game","3 to 4",1.5,"45-60 minutes",14+
+"Stop Thief!",215312,Cooperative,"2 to 4",1.5,"30-60 minutes",10+
+Crosstalk,215371,Party/Deduction,"4 to 8",1.5,"30 minutes",10+`
+Hotshots,218050,"Co-op/Dice Rolling","1 to 4",2,"60 minutes",10+
+"Rhino Hero: Super Battle",218333,Dexterity,"3 to 5",1,"15-20 minutes",5+
+"Aeon's End: War Eternal",218417,"Card Drafting/Co-operative","1 to 4",3,"60 minutes",14+
+Photosynthesis,218603,"Abstract Strategy","2 to 4",2.5,"30-60 minutes",10+
+"Cobra Paw",220700,Party/Dexterity,"2 to 6",1,"5-15 minutes",6+
+Cartagena,224031,Family/Racing,"2 to 5",1.5,"45 minutes",8+
